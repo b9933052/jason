@@ -1,0 +1,676 @@
+﻿{
+    "value": [
+        {
+            "memory_size_MiB": 2048,
+            "vm": "vm-2886",
+            "name": "LabAD1",
+            "power_state": "POWERED_ON",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4051",
+            "name": "ecomposer",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4052",
+            "name": "evdm01",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4053",
+            "name": "evdm02",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4057",
+            "name": "EW7",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4083",
+            "name": "EAD01",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4089",
+            "name": "EW10",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4124",
+            "name": "Win10-02",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4126",
+            "name": "Win10-05",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4127",
+            "name": "Win10-04",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4145",
+            "name": "evdm03",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4146",
+            "name": "evdm04",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 16384,
+            "vm": "vm-4262",
+            "name": "mars",
+            "power_state": "POWERED_ON",
+            "cpu_count": 4
+        },
+        {
+            "memory_size_MiB": 10240,
+            "vm": "vm-4272",
+            "name": "EDRESXi",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 6
+        },
+        {
+            "memory_size_MiB": 10240,
+            "vm": "vm-4279",
+            "name": "EESXi",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 6
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4329",
+            "name": "Lena_AD02",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 10240,
+            "vm": "vm-4358",
+            "name": "evc",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 10240,
+            "vm": "vm-4359",
+            "name": "edrvc",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4364",
+            "name": "fsclient",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 1
+        },
+        {
+            "memory_size_MiB": 2048,
+            "vm": "vm-4371",
+            "name": "Vincent_Win7_78.21",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 1
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4389",
+            "name": "ming_W2012_AD51",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4395",
+            "name": "eFileServer",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 10240,
+            "vm": "vm-4400",
+            "name": "esc-vcsa01",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 10240,
+            "vm": "vm-4422",
+            "name": "esc-vcsa01-Passive",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 1024,
+            "vm": "vm-4424",
+            "name": "esc-vcsa01-Witness",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 1
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4484",
+            "name": "FSCS",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4508",
+            "name": "FSAppVol",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 6144,
+            "vm": "vm-4544",
+            "name": "elcm",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4570",
+            "name": "EDataCore",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4669",
+            "name": "g-hyper-V-01",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4671",
+            "name": "E_IPG",
+            "power_state": "POWERED_ON",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4672",
+            "name": "Lena_AD01",
+            "power_state": "POWERED_ON",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4777",
+            "name": "ming_W2012_AD51_live-sync",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4788",
+            "name": "Lena_AD3_2k8",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4825",
+            "name": "Lena_win2012R2",
+            "power_state": "POWERED_ON",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 16384,
+            "vm": "vm-4839",
+            "name": "esgpvom",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 4
+        },
+        {
+            "memory_size_MiB": 32768,
+            "vm": "vm-4873",
+            "name": "J-tcommvault-CS_76.20",
+            "power_state": "POWERED_ON",
+            "cpu_count": 8
+        },
+        {
+            "memory_size_MiB": 16384,
+            "vm": "vm-4876",
+            "name": "J-tcommvault-MA_76.21",
+            "power_state": "POWERED_ON",
+            "cpu_count": 8
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4885",
+            "name": "J-tClient-02_76.23",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4895",
+            "name": "J-tESXi_76.25",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4910",
+            "name": "ESSV1",
+            "power_state": "POWERED_ON",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4911",
+            "name": "ESSV2",
+            "power_state": "POWERED_ON",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 16384,
+            "vm": "vm-4934",
+            "name": "eidm",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 8
+        },
+        {
+            "memory_size_MiB": 16384,
+            "vm": "vm-4935",
+            "name": "Jason-tVIDM_76.2",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 8
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4936",
+            "name": "Win10_CHT_Template",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 1
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4937",
+            "name": "g-hyper-V-02",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4938",
+            "name": "Lena_T_Exchange1",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4940",
+            "name": "Vincent_Zimbra_78.6",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4942",
+            "name": "Vincent_W10PC_78.22",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 1
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4944",
+            "name": "WFH-2",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4946",
+            "name": "WFH-1",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 6144,
+            "vm": "vm-4948",
+            "name": "Win7_Template",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4949",
+            "name": "WFH-3",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 43008,
+            "vm": "vm-4951",
+            "name": "Jason-tVRA_76.3",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 12
+        },
+        {
+            "memory_size_MiB": 43008,
+            "vm": "vm-4952",
+            "name": "evra",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 12
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4953",
+            "name": "EX01",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4954",
+            "name": "FSbase",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4957",
+            "name": "esrm",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4958",
+            "name": "edrsrm",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 6000,
+            "vm": "vm-4959",
+            "name": "Vincent_CAS2_08R2_22",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 2048,
+            "vm": "vm-4960",
+            "name": "Vincent_AD1_78.1",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4961",
+            "name": "esrm2",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4962",
+            "name": "Vincent_MBX1_08R2_23",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4963",
+            "name": "Vincent_MBX2_08R2_24",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4964",
+            "name": "FSUAG01",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 6000,
+            "vm": "vm-4966",
+            "name": "Vincent_CAS1_08R2_21",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4967",
+            "name": "ERDS02",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4968",
+            "name": "Phison-vdm02",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4970",
+            "name": "ERDS01",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4971",
+            "name": "Vincent_EX1_78.11",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 4
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4972",
+            "name": "Vincent_DC1_08R2_11",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4973",
+            "name": "w10-1",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4974",
+            "name": "sc-vrlog01",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 4
+        },
+        {
+            "memory_size_MiB": 2048,
+            "vm": "vm-4975",
+            "name": "Vincent_Nessus_78.5",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 1
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4976",
+            "name": "Vincent_EX2_78.12",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 4
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4977",
+            "name": "Vincent_DC2_08R2_12",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4978",
+            "name": "Phison-vdm01",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-4980",
+            "name": "Win10-01",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 16384,
+            "vm": "vm-4983",
+            "name": "ma11247",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 4
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4984",
+            "name": "ming_W2012_AD52",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-4989",
+            "name": "Jeff-iscsi",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 4
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-5014",
+            "name": "Jeff-esxi67",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 1
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-5023",
+            "name": "esgpssv1",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-5026",
+            "name": "Lena_2012_FLEXG01",
+            "power_state": "POWERED_ON",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-5041",
+            "name": "Lena_2012_FLEXG02",
+            "power_state": "POWERED_ON",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-5042",
+            "name": "Lena_Cellopoint",
+            "power_state": "POWERED_ON",
+            "cpu_count": 4
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-5057",
+            "name": "rhel-vsa",
+            "power_state": "POWERED_ON",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 8192,
+            "vm": "vm-5058",
+            "name": "ECV01",
+            "power_state": "POWERED_ON",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-5059",
+            "name": "ECV02",
+            "power_state": "POWERED_ON",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 10240,
+            "vm": "vm-5063",
+            "name": "evc02_old",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 12288,
+            "vm": "vm-5066",
+            "name": "J_VCSA_TEST_17920168",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 12288,
+            "vm": "vm-5069",
+            "name": "evc02",
+            "power_state": "POWERED_ON",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-5070",
+            "name": "ECV03",
+            "power_state": "POWERED_ON",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-5079",
+            "name": "J-tClient-01_76.22",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-5080",
+            "name": "J-tiSCSI-01_76.24",
+            "power_state": "POWERED_OFF",
+            "cpu_count": 2
+        },
+        {
+            "memory_size_MiB": 4096,
+            "vm": "vm-5090",
+            "name": "EORA",
+            "power_state": "POWERED_ON",
+            "cpu_count": 2
+        }
+    ]
+}
